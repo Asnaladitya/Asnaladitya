@@ -79,14 +79,14 @@
 
 <!-- Tambahkan LinkedIn jika sudah punya -->
 <!--
-<a href="https://linkedin.com/in/username">
+<a href="https://linkedin.com/in/muhamad-asnal-aditya-6235a52ba/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 -->
 
 <!-- Tambahkan Instagram jika ingin -->
 <!--
-<a href="https://instagram.com/username">
+<a href="https://instagram.com/asnl_adty">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 -->
@@ -100,8 +100,6 @@
 ![](https://komarev.com/ghpvc/?username=Asnaladitya&color=blueviolet&style=for-the-badge)
 
 ⭐ Thanks for visiting my profile!
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Asnaladitya/Asnaladitya/output/github-contribution-grid-snake-dark.svg" />
