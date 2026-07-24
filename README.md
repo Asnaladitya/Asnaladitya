@@ -101,4 +101,9 @@
 
 ⭐ Thanks for visiting my profile!
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Asnaladitya/Asnaladitya/output/github-contribution-grid-snake-dark.svg" />
+</p>
 </div>
