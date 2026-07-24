@@ -74,22 +74,16 @@
 <p align="left">
 
 <a href="https://github.com/Asnaladitya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Tambahkan LinkedIn jika sudah punya -->
-<!--
-<a href="https://linkedin.com/in/muhamad-asnal-aditya-6235a52ba/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/muhamad-asnal-aditya-6235a52ba/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
--->
 
-<!-- Tambahkan Instagram jika ingin -->
-<!--
-<a href="https://instagram.com/asnl_adty">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<a href="https://www.instagram.com/asnl_adty/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
--->
 
 </p>
 
