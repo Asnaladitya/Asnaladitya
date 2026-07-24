@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Asnal Aditya
 
-### 💻 Web Developer | Laravel Enthusiast | Always Learning 🚀
+### 💻 Web Developer | AI Enthusiast | Always Learning | Data Analyst 🚀
 
 <p>
   <a href="https://github.com/Asnaladitya">
