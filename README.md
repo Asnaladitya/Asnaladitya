@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi 👋 I'm Asnal Aditya
@@ -103,4 +102,3 @@
 ⭐ Thanks for visiting my profile!
 
 </div>
-```
