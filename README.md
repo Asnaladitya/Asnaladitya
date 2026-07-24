@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/Asnaladitya">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Laravel+Developer;Web+Developer;Open+to+Learning+New+Things" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;AI+Enthusiast;Web+Developer;Open+to+Learning+New+Things" />
   </a>
 </p>
 
